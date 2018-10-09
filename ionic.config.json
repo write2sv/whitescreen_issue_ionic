@@ -1,0 +1,7 @@
+{
+  "name": "whitescreen",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
